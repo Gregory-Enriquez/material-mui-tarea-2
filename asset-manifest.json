@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/material-mui-tarea-2/static/css/main.073c9b0a.css",
+    "main.js": "/material-mui-tarea-2/static/js/main.4af2aa88.js",
+    "static/js/787.ced7f6b1.chunk.js": "/material-mui-tarea-2/static/js/787.ced7f6b1.chunk.js",
+    "index.html": "/material-mui-tarea-2/index.html",
+    "main.073c9b0a.css.map": "/material-mui-tarea-2/static/css/main.073c9b0a.css.map",
+    "main.4af2aa88.js.map": "/material-mui-tarea-2/static/js/main.4af2aa88.js.map",
+    "787.ced7f6b1.chunk.js.map": "/material-mui-tarea-2/static/js/787.ced7f6b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.4af2aa88.js"
+  ]
+}
